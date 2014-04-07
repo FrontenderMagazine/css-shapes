@@ -1,4 +1,5 @@
-<section class="main post-wrapper clearfix">
+# Creating Non-Rectangular Layouts with CSS Shapes
+
 These days we can create all kinds of [shapes with CSS][1] using CSS transforms
 , but all these shapes do not affect the flow of the content inside or around 
 them. That is, if you create a triangle or a trapezoid with CSS, for example, 
@@ -608,7 +609,7 @@ Thank you for reading!
 ### Resources & Further Learning
 
 *This article wouldn’t have been possible without the great help from 
-[Razvan Caliman][30], so a big thanks goes to him.*</section>
+[Razvan Caliman][30], so a big thanks goes to him.*
 
  [1]: http://cssshapes.com/
 

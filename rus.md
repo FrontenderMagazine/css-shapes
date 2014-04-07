@@ -1,4 +1,5 @@
-<section class="main post-wrapper clearfix">
+# Создание непрямоугольных макетов при помощи CSS-форм
+
 Сегодня мы можем создавать любые виды форм при помощи [css-трансформаций][1], но эти формы не могут влиять на контент внутри них или вокруг них. Например, если вы создаете треугольник или трапецию средствами css, то созданная форма не определяет и не влияет на поведение текста внутри нее или же на поведение текста снаружи нее.
 
 С введением css форм в веб завернуть контент в пользовательскую непрямоугольную форму или же воссоздать типографические(печатные) проекты и макеты в вебе стало проще простого.
@@ -429,6 +430,39 @@ You should subscribe to my blog's [RSS feed][28] and [follow me on Twitter][29]
 
 Thank you for reading!
 
+[1]: http://cssshapes.com/
+
+[2]: http://blogs.adobe.com/webplatform/2013/10/23/css-shapes-visual-storytelling/
+[3]: https://src.chromium.org/viewvc/blink?revision=159989&view=revision
+[4]: http://html.adobe.com/webplatform/enable/
+[5]: http://www.w3.org/TR/2007/WD-css3-box-20070809/
+
+[6]: http://blogs.adobe.com/webplatform/2013/03/27/freeing-the-floats-of-the-future-from-the-tyranny-of-the-rectangle/
+[7]: http://www.w3.org/TR/css-shapes/#CSS3BOX
+[8]: http://www.w3.org/TR/css-shapes/
+[9]: img/shape-background.png
+[10]: img/box-model-background.png
+[11]: https://dvcs.w3.org/hg/FXTF/raw-file/default/masking/index.html
+[12]: http://codepen.io/SaraSoueidan/pen/ad12e1280e4b1c481faa3b82bd9a3263
+[13]: img/shapes_CSS2.1_MBP.png
+[14]: http://betravis.github.io/shape-tools/exclusion-punch/
+[15]: https://twitter.com/bear_travis
+[]: http://sarasoueidan.com/blog/css-shapes/demo-1/index.html
+[17]: img/demo-shape.png
+[18]: img/demo-screenshot-incomplete.png
+[19]: img/mask.png
+[]: http://sarasoueidan.com/blog/css-shapes/demo-2/index.html
+[]: http://sarasoueidan.com/blog/css-shapes/demo-3/index.html
+[22]: http://betravis.github.io/shape-tools
+[23]: http://betravis.github.io/shape-tools/polygon-drawing/
+[24]: https://twitter.com/razvancaliman
+
+[25]: https://www.youtube.com/watch?v=zsLwZhTSuQk&list=PL8rji95IPUUDu3puqqxWMKFXf-NQ4z7WE&index=11
+[]: http://sarasoueidan.com/blog/css-shapes/demo-4/index.html
+[]: http://www.behance.net/gallery/Travel-Magazine/2159303
+[28]: http://feeds.feedburner.com/sarasoueidan
+[29]: http://twitter.com/SaraSoueidan
+[30]: http://razvancaliman.com/
 
 
 
