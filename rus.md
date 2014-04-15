@@ -226,7 +226,7 @@ Image with Alpha Channel whose URI will be used to extract and compute the value
 Изображение ниже показывает, что система координат установлена на элементе и  окружность находится внутри элемента. Мы можем удостовериться, что окружность установлена сверху на изображении сковороды, что на фото, которое мы используем как фоновое изображение, так что кажется что текст содержится внутри сковородки. 
 На картинке так же видно, что центр окружности установлен по отношению к системы координат на элементе. 
 
-![Coordinate system and shape defined on the container][17]
+![Coordinate system and shape defined on the container][22]
 
 Так как мы хотим обвернуть текст *внутри* пользовательской формы и не обеткать его вокруг мы собираемся использовать свойство `shape-inside` к элементу который содержит этот текст. Когда мы применяем свойство `shape-inside` к элементу мы должны помнить что этот элементе должен иметь текст внутри себя, что не похоже на  предыдущий пример, где контент был снаружи элемента на котором мы определяли форму. 
 
@@ -254,7 +254,7 @@ Image with Alpha Channel whose URI will be used to extract and compute the value
 
 Мы так же можем использовать URI изображения с альфа-каналом чтобы достать форму окружности из нее. Картинка будет выглядеть следующим образом:
 
-![Image with Alpha Channel showing the circular shape][19]
+![Image with Alpha Channel showing the circular shape][23]
 
 Очень важно отметить здесь что когда мы используем изображения с альфа-каналом для определения формы **со свойством `shape-inside`** *черная (или непрозрачная) область* изобржения будет определять область где будет находится текст. В прошлом примере непрозрачная область определяла *область исключения* элемента на которого мы применили форму, т.е. область где нет текста. 
 
@@ -270,7 +270,7 @@ Image with Alpha Channel whose URI will be used to extract and compute the value
 
 В этом примере мы также объявим многоугольную форму на контейнере и зададим контент внутри этой формы. Конечный результат будет выглядить вот так:
 
-![Screenshot of Demo #3][22]
+![Screenshot of Demo #3][24]
 
 В данном случае мы так же можем использовать функцию для описания формы или изображение с альфа-каналом.
 
@@ -278,7 +278,7 @@ Image with Alpha Channel whose URI will be used to extract and compute the value
 
 На рисунке снизу показана форма, задаваемая набором точек.
 
-[The polygonal shape defined by a set of points][17]
+![The polygonal shape defined by a set of points][25]
 
 Так как эта форма задается довольно большим количество точек вычислять их координаты было бы утомительно, поэтому было бы намного проще, если бы существовал *визуальный* инструмент, который помог бы расставить точки на изображении, правда ведь? И такой инструмент существует и создан [Bear Travis][15] из Adobe, и на самом деле это набор инструментов который поможет вам при работе с CSS-формами. Обязательно посмотрите на [Shape Tools][22] потому что они очень полезны.
 
@@ -436,6 +436,10 @@ Thank you for reading!
 [18]: img/demo-screenshot-incomplete.png
 [19]: img/mask.png
 [21]: img/demo-screenshot3.png
+[22]: img/demo-shape3.png
+[23]: img/mask3.png
+[24]: img/demo-screenshot1.png
+[25]: img/demo-shape1.png
 []: http://sarasoueidan.com/blog/css-shapes/demo-2/index.html
 []: http://sarasoueidan.com/blog/css-shapes/demo-3/index.html
 [22]: http://betravis.github.io/shape-tools
