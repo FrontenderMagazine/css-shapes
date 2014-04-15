@@ -270,7 +270,7 @@ Image with Alpha Channel whose URI will be used to extract and compute the value
 
 В этом примере мы также объявим многоугольную форму на контейнере и зададим контент внутри этой формы. Конечный результат будет выглядить вот так:
 
-![Screenshot of Demo #3][24]
+[![Screenshot of Demo #3][24]][27]
 
 В данном случае мы так же можем использовать функцию для описания формы или изображение с альфа-каналом.
 
@@ -441,12 +441,12 @@ Thank you for reading!
 [24]: img/demo-screenshot1.png
 [25]: img/demo-shape1.png
 [26]: http://sarasoueidan.com/blog/css-shapes/demo-2/index.html
-[]: http://sarasoueidan.com/blog/css-shapes/demo-3/index.html
+[27]: http://sarasoueidan.com/blog/css-shapes/demo-3/index.html
 [222]: http://betravis.github.io/shape-tools
 [223]: http://betravis.github.io/shape-tools/polygon-drawing/
 [224]: https://twitter.com/razvancaliman
 
-[25]: https://www.youtube.com/watch?v=zsLwZhTSuQk&list=PL8rji95IPUUDu3puqqxWMKFXf-NQ4z7WE&index=11
+[225]: https://www.youtube.com/watch?v=zsLwZhTSuQk&list=PL8rji95IPUUDu3puqqxWMKFXf-NQ4z7WE&index=11
 []: http://sarasoueidan.com/blog/css-shapes/demo-4/index.html
 []: http://www.behance.net/gallery/Travel-Magazine/2159303
 [28]: http://feeds.feedburner.com/sarasoueidan
