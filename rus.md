@@ -205,7 +205,7 @@ Image with Alpha Channel whose URI will be used to extract and compute the value
 Для второго примера мы создадим простую демонстрацию где окончательный результат будет выглядеть вот так:
 
 (!!!!!!)
-![Screenshot of demo #2][21]
+[![][26]][21]
 
 (!!!!!!)
 Цель этого примера показать использование свойства The goal of this example is to demonstrate the  в непрямоугольной форме. Мы имеем контейнер с несколькими заглушками текста внутри него и мы применяем фотографию как фоновое изображение этому контейнеру.
@@ -440,7 +440,7 @@ Thank you for reading!
 [23]: img/mask3.png
 [24]: img/demo-screenshot1.png
 [25]: img/demo-shape1.png
-[]: http://sarasoueidan.com/blog/css-shapes/demo-2/index.html
+[26]: http://sarasoueidan.com/blog/css-shapes/demo-2/index.html
 []: http://sarasoueidan.com/blog/css-shapes/demo-3/index.html
 [222]: http://betravis.github.io/shape-tools
 [223]: http://betravis.github.io/shape-tools/polygon-drawing/
