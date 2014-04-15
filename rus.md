@@ -226,7 +226,7 @@ Image with Alpha Channel whose URI will be used to extract and compute the value
 Изображение ниже показывает, что система координат установлена на элементе и  окружность находится внутри элемента. Мы можем удостовериться, что окружность установлена сверху на изображении сковороды, что на фото, которое мы используем как фоновое изображение, так что кажется что текст содержится внутри сковородки. 
 На картинке так же видно, что центр окружности установлен по отношению к системы координат на элементе. 
 
-[![][Coordinate system and shape defined on the container]][22]
+![Coordinate system and shape defined on the container][22]
 
 Так как мы хотим обвернуть текст *внутри* пользовательской формы и не обеткать его вокруг мы собираемся использовать свойство `shape-inside` к элементу который содержит этот текст. Когда мы применяем свойство `shape-inside` к элементу мы должны помнить что этот элементе должен иметь текст внутри себя, что не похоже на  предыдущий пример, где контент был снаружи элемента на котором мы определяли форму. 
 
@@ -442,9 +442,9 @@ Thank you for reading!
 [25]: img/demo-shape1.png
 []: http://sarasoueidan.com/blog/css-shapes/demo-2/index.html
 []: http://sarasoueidan.com/blog/css-shapes/demo-3/index.html
-[22]: http://betravis.github.io/shape-tools
-[23]: http://betravis.github.io/shape-tools/polygon-drawing/
-[24]: https://twitter.com/razvancaliman
+[222]: http://betravis.github.io/shape-tools
+[223]: http://betravis.github.io/shape-tools/polygon-drawing/
+[224]: https://twitter.com/razvancaliman
 
 [25]: https://www.youtube.com/watch?v=zsLwZhTSuQk&list=PL8rji95IPUUDu3puqqxWMKFXf-NQ4z7WE&index=11
 []: http://sarasoueidan.com/blog/css-shapes/demo-4/index.html
