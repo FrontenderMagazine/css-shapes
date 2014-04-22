@@ -389,10 +389,10 @@ Travel Magazine by Bartosz Kwiecień on Behance. Layout like this could be repli
 [20]: img/mask.png
 [21]: img/demo-screenshot2.png
 [22]: http://sarasoueidan.com/demos/css-shapes-layouts/demo-2/index.html
-[23]: img/demo-shape2.png
+[23]: img/demo-shape1.png
 [24]: img/mask1.png
 [25]: img/demo-screenshot3.png
-[26]: img/demo-shape1.png
+[26]: img/demo-shape2.png
 [27]: https://twitter.com/bear_travis
 [28]: http://betravis.github.io/shape-tools/
 [29]: http://betravis.github.io/shape-tools/polygon-drawing/
