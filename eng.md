@@ -611,7 +611,7 @@ Thank you for reading!
 *This article wouldn’t have been possible without the great help from 
 [Razvan Caliman][30], so a big thanks goes to him.*
 
- [1]: http://cssshapes.com/
+ [1]: http://css-tricks.com/examples/ShapesOfCSS/
 
  [2]: http://blogs.adobe.com/webplatform/2013/10/23/css-shapes-visual-storytelling/
  [3]: https://src.chromium.org/viewvc/blink?revision=159989&view=revision
