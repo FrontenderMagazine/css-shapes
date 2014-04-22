@@ -384,7 +384,7 @@ Travel Magazine by Bartosz Kwiecień on Behance. Layout like this could be repli
 [15]: https://twitter.com/bear_travis
 [16]: img/demo-screenshot1.png
 [17]: http://sarasoueidan.com/blog/css-shapes/demo-1/index.html]
-[18]: img/demo-shape1.png
+[18]: img/demo-shape.png
 [19]: img/demo-screenshot-incomplete.png
 [20]: img/mask.png
 [21]: img/demo-screenshot3.png
