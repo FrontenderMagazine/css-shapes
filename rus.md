@@ -586,7 +586,7 @@ _Подобный макет может быть воссоздан при по�
 [14]: http://betravis.github.io/shape-tools/exclusion-punch/
 [15]: https://twitter.com/bear_travis
 [16]: img/demo-screenshot1.png
-[17]: http://sarasoueidan.com/blog/css-shapes/demo-1/index.html
+[17]: http://sarasoueidan.com/demos/css-shapes-layouts/demo-1/index.html
 [18]: img/demo-shape.png
 [19]: img/demo-screenshot-incomplete.png
 [20]: img/mask.png
